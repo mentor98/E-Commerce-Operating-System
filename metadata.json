@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Operating System",
+  "description": "Enterprise-grade multi-vendor e-commerce operating system with storefront, seller hub, admin portal, inventory control, coupon engine, order lifecycle tracking, real-time analytics, and automated API test suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
